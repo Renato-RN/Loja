@@ -1,0 +1,22 @@
+git status
+
+
+git init                        
+git add -A
+git commit -m "adicionar todos arquivos e pastas"     
+git branch -M main
+git remote add origin https://github.com/Renato-RN/Loja
+git push -u origin main
+
+
+
+token de acesso ao github
+
+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
+
+valido até Mar 12 2022
+
+como criar -> 
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+
+https://techglimpse.com/git-push-github-token-based-passwordless/
